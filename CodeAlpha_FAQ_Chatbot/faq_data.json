@@ -1,0 +1,464 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "variations": [
+            "What is AI?",
+            "What does AI mean?",
+            "What does artificial intelligence mean?",
+            "Can you explain AI?",
+            "What does AI stand for?"
+        ],
+        "answer": "Artificial intelligence is a field of computer science that enables machines to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "What is machine learning?",
+        "variations": [
+            "What does machine learning mean?",
+            "Can you explain machine learning?",
+            "How does machine learning work?",
+            "How do computers learn from data?",
+            "How do machines learn?"
+        ],
+        "answer": "Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task."
+    },
+    {
+        "question": "What is deep learning?",
+        "variations": [
+            "What does deep learning mean?",
+            "Can you explain deep learning?",
+            "How does deep learning work?",
+            "What is deep learning in AI?"
+        ],
+        "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+    },
+    {
+        "question": "What is generative AI?",
+        "variations": [
+            "What does generative AI mean?",
+            "Can you explain generative AI?",
+            "What is GenAI?",
+            "What can generative AI do?"
+        ],
+        "answer": "Generative AI refers to AI systems that can create new content such as text, images, audio, video, and code."
+    },
+    {
+        "question": "What is artificial general intelligence?",
+        "variations": [
+            "What is AGI?",
+            "What does AGI mean?",
+            "What is general artificial intelligence?",
+            "Can you explain AGI?"
+        ],
+        "answer": "Artificial General Intelligence, or AGI, refers to a theoretical AI system capable of performing a wide range of intellectual tasks at a level comparable to humans."
+    },
+    {
+        "question": "What is supervised learning?",
+        "variations": [
+            "What does supervised learning mean?",
+            "Can you explain supervised learning?",
+            "How does supervised learning work?",
+            "What is supervised machine learning?"
+        ],
+        "answer": "Supervised learning is a machine learning approach where a model learns from labeled training data to make predictions on new data."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "variations": [
+            "What does unsupervised learning mean?",
+            "Can you explain unsupervised learning?",
+            "How does unsupervised learning work?",
+            "What is unsupervised machine learning?"
+        ],
+        "answer": "Unsupervised learning is a machine learning approach where a model discovers patterns or structures in data without labeled examples."
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "variations": [
+            "What does reinforcement learning mean?",
+            "Can you explain reinforcement learning?",
+            "How does reinforcement learning work?",
+            "What is reinforcement learning in AI?"
+        ],
+        "answer": "Reinforcement learning is a machine learning technique where an agent learns by interacting with an environment and receiving rewards or penalties."
+    },
+    {
+        "question": "What is classification?",
+        "variations": [
+            "What is classification in machine learning?",
+            "What does classification mean?",
+            "Can you explain classification?",
+            "How does classification work?"
+        ],
+        "answer": "Classification is a supervised machine learning task that assigns data to predefined categories or classes."
+    },
+    {
+        "question": "What is regression?",
+        "variations": [
+            "What is regression in machine learning?",
+            "What does regression mean?",
+            "Can you explain regression?",
+            "What is regression used for?"
+        ],
+        "answer": "Regression is a supervised machine learning technique used to predict continuous numerical values based on input data."
+    },
+    {
+        "question": "What is clustering?",
+        "variations": [
+            "What is clustering in machine learning?",
+            "What does clustering mean?",
+            "Can you explain clustering?",
+            "How does clustering work?"
+        ],
+        "answer": "Clustering is an unsupervised learning technique that groups similar data points together based on their characteristics."
+    },
+    {
+        "question": "What is overfitting?",
+        "variations": [
+            "What does overfitting mean?",
+            "Can you explain overfitting?",
+            "Why does overfitting happen?",
+            "How does overfitting affect a model?"
+        ],
+        "answer": "Overfitting occurs when a machine learning model learns the training data too closely and performs poorly on new, unseen data."
+    },
+    {
+        "question": "What is underfitting?",
+        "variations": [
+            "What does underfitting mean?",
+            "Can you explain underfitting?",
+            "Why does underfitting happen?",
+            "How does underfitting affect a model?"
+        ],
+        "answer": "Underfitting occurs when a machine learning model is too simple to capture important patterns in the training data."
+    },
+    {
+        "question": "What is a dataset?",
+        "variations": [
+            "What does dataset mean?",
+            "What is a machine learning dataset?",
+            "Can you explain datasets?",
+            "What is data used for in machine learning?"
+        ],
+        "answer": "A dataset is a structured collection of data used for analysis, training machine learning models, or testing algorithms."
+    },
+    {
+        "question": "What is model training?",
+        "variations": [
+            "What does model training mean?",
+            "How is a machine learning model trained?",
+            "What happens during model training?",
+            "How do you train an AI model?"
+        ],
+        "answer": "Model training is the process of teaching a machine learning model to recognize patterns by using training data and adjusting its parameters."
+    },
+    {
+        "question": "What is model testing?",
+        "variations": [
+            "What does model testing mean?",
+            "How do you test a machine learning model?",
+            "What happens during model testing?",
+            "Why do we test AI models?"
+        ],
+        "answer": "Model testing is the process of evaluating a trained machine learning model using data that was not used during training."
+    },
+    {
+        "question": "What is a neural network?",
+        "variations": [
+            "What does neural network mean?",
+            "Can you explain neural networks?",
+            "How does a neural network work?",
+            "What are neural networks?"
+        ],
+        "answer": "A neural network is a machine learning model inspired by the human brain that consists of interconnected nodes arranged in layers."
+    },
+    {
+        "question": "What is a convolutional neural network?",
+        "variations": [
+            "What is a CNN?",
+            "What does CNN mean?",
+            "Can you explain convolutional neural networks?",
+            "What are CNNs used for?"
+        ],
+        "answer": "A Convolutional Neural Network, or CNN, is a deep learning model commonly used for analyzing images and other grid-like data."
+    },
+    {
+        "question": "What is an RNN?",
+        "variations": [
+            "What does RNN mean?",
+            "What is a recurrent neural network?",
+            "Can you explain RNNs?",
+            "What are recurrent neural networks used for?"
+        ],
+        "answer": "A Recurrent Neural Network, or RNN, is a neural network designed to process sequential data by using information from previous steps."
+    },
+    {
+        "question": "What is an LSTM?",
+        "variations": [
+            "What does LSTM mean?",
+            "What is a long short term memory network?",
+            "Can you explain LSTM?",
+            "What are LSTMs used for?"
+        ],
+        "answer": "LSTM stands for Long Short-Term Memory. It is a type of recurrent neural network designed to learn long-term dependencies in sequential data."
+    },
+    {
+        "question": "What is a transformer model?",
+        "variations": [
+            "What is a transformer in AI?",
+            "What does transformer mean in machine learning?",
+            "Can you explain transformer models?",
+            "What are transformers used for?"
+        ],
+        "answer": "A Transformer is a deep learning architecture that uses attention mechanisms to process relationships between elements in sequential data and is widely used in modern NLP systems."
+    },
+    {
+        "question": "What is natural language processing?",
+        "variations": [
+            "What is NLP?",
+            "What does NLP mean?",
+            "Can you explain NLP?",
+            "How do computers understand human language?"
+        ],
+        "answer": "Natural Language Processing, or NLP, is a field of AI that enables computers to understand, process, and generate human language."
+    },
+    {
+        "question": "What is tokenization?",
+        "variations": [
+            "What does tokenization mean?",
+            "What is tokenization in NLP?",
+            "Can you explain tokenization?",
+            "How does text tokenization work?"
+        ],
+        "answer": "Tokenization is the process of breaking text into smaller units called tokens, such as words, subwords, or characters."
+    },
+    {
+        "question": "What are stopwords?",
+        "variations": [
+            "What does stopword mean?",
+            "What are stop words in NLP?",
+            "Why are stopwords removed?",
+            "Can you explain stopwords?"
+        ],
+        "answer": "Stopwords are common words that may carry little useful information for certain NLP tasks, such as 'the', 'is', and 'and'."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "variations": [
+            "What does sentiment analysis mean?",
+            "Can you explain sentiment analysis?",
+            "How does sentiment analysis work?",
+            "What is sentiment analysis in NLP?"
+        ],
+        "answer": "Sentiment analysis is an NLP technique used to determine the emotional tone or opinion expressed in text, such as positive, negative, or neutral."
+    },
+    {
+        "question": "What is an LLM?",
+        "variations": [
+            "What does LLM mean?",
+            "What is a large language model?",
+            "Can you explain LLMs?",
+            "What are large language models?"
+        ],
+        "answer": "An LLM, or Large Language Model, is an AI model trained on large amounts of text data to understand and generate human-like language."
+    },
+    {
+        "question": "What is computer vision?",
+        "variations": [
+            "What does computer vision mean?",
+            "Can you explain computer vision?",
+            "How do computers understand images?",
+            "What is vision in AI?"
+        ],
+        "answer": "Computer vision is a field of AI that enables computers to analyze and understand images and videos."
+    },
+    {
+        "question": "What is image classification?",
+        "variations": [
+            "What does image classification mean?",
+            "How does image classification work?",
+            "Can you explain image classification?",
+            "What is image recognition?"
+        ],
+        "answer": "Image classification is a computer vision task that assigns an image to one or more predefined categories."
+    },
+    {
+        "question": "What is object detection?",
+        "variations": [
+            "What does object detection mean?",
+            "Can you explain object detection?",
+            "How does object detection work?",
+            "What is object detection in computer vision?"
+        ],
+        "answer": "Object detection is a computer vision technique that identifies objects in an image or video and determines their locations using bounding boxes."
+    },
+    {
+        "question": "What is image segmentation?",
+        "variations": [
+            "What does image segmentation mean?",
+            "Can you explain image segmentation?",
+            "How does image segmentation work?",
+            "What is segmentation in computer vision?"
+        ],
+        "answer": "Image segmentation divides an image into meaningful regions or pixels so that different objects or areas can be identified precisely."
+    },
+    {
+        "question": "What is data science?",
+        "variations": [
+            "What does data science mean?",
+            "Can you explain data science?",
+            "What is data science used for?",
+            "How does data science work?"
+        ],
+        "answer": "Data science combines statistics, programming, machine learning, and data analysis to extract useful insights from data."
+    },
+    {
+        "question": "What is Python used for in AI?",
+        "variations": [
+            "Why is Python used in AI?",
+            "How is Python used in artificial intelligence?",
+            "Why do AI developers use Python?",
+            "What can Python do in machine learning?"
+        ],
+        "answer": "Python is widely used in AI because it has powerful libraries and frameworks for machine learning, deep learning, data analysis, NLP, and computer vision."
+    },
+    {
+        "question": "What is NumPy?",
+        "variations": [
+            "What does NumPy do?",
+            "Can you explain NumPy?",
+            "What is NumPy used for?",
+            "Why is NumPy used in machine learning?"
+        ],
+        "answer": "NumPy is a Python library for numerical computing that provides efficient arrays and mathematical operations."
+    },
+    {
+        "question": "What is Pandas?",
+        "variations": [
+            "What does Pandas do?",
+            "Can you explain Pandas?",
+            "What is Pandas used for?",
+            "Why is Pandas useful in data science?"
+        ],
+        "answer": "Pandas is a Python library used for data manipulation and analysis, especially with structured data such as tables and datasets."
+    },
+    {
+        "question": "What is an algorithm?",
+        "variations": [
+            "What does algorithm mean?",
+            "Can you explain algorithms?",
+            "What is an algorithm used for?",
+            "How do algorithms work?"
+        ],
+        "answer": "An algorithm is a step-by-step procedure used to solve a problem or perform a specific computational task."
+    },
+    {
+        "question": "What is an AI model?",
+        "variations": [
+            "What does AI model mean?",
+            "What is a machine learning model?",
+            "Can you explain AI models?",
+            "How does an AI model work?"
+        ],
+        "answer": "An AI model is a computational system trained on data to recognize patterns, make predictions, generate content, or perform specific intelligent tasks."
+    },
+    {
+        "question": "What is training data?",
+        "variations": [
+            "What does training data mean?",
+            "What data is used to train AI?",
+            "Can you explain training data?",
+            "Why is training data important?"
+        ],
+        "answer": "Training data is the data provided to a machine learning algorithm so that it can learn patterns and relationships needed to perform a task."
+    },
+    {
+        "question": "What is test data?",
+        "variations": [
+            "What does test data mean?",
+            "What is testing data in machine learning?",
+            "Why is test data used?",
+            "Can you explain test datasets?"
+        ],
+        "answer": "Test data is a separate dataset used to evaluate how well a trained machine learning model performs on previously unseen examples."
+    },
+    {
+        "question": "What is validation data?",
+        "variations": [
+            "What does validation data mean?",
+            "Why is validation data used?",
+            "What is a validation dataset?",
+            "Can you explain validation data?"
+        ],
+        "answer": "Validation data is used during model development to tune parameters and compare model configurations before final testing."
+    },
+    {
+        "question": "What is accuracy in machine learning?",
+        "variations": [
+            "What does accuracy mean in ML?",
+            "How is machine learning accuracy calculated?",
+            "What is model accuracy?",
+            "Can you explain accuracy?"
+        ],
+        "answer": "Accuracy is the proportion of predictions that a classification model gets correct out of all predictions."
+    },
+    {
+        "question": "What is precision?",
+        "variations": [
+            "What does precision mean in machine learning?",
+            "Can you explain precision?",
+            "How is precision calculated?",
+            "What is precision in classification?"
+        ],
+        "answer": "Precision measures how many of the instances predicted as positive are actually positive."
+    },
+    {
+        "question": "What is recall?",
+        "variations": [
+            "What does recall mean in machine learning?",
+            "Can you explain recall?",
+            "How is recall calculated?",
+            "What is recall in classification?"
+        ],
+        "answer": "Recall measures how many of the actual positive instances were correctly identified by the model."
+    },
+    {
+        "question": "What is an AI application?",
+        "variations": [
+            "Where is AI used?",
+            "What are applications of AI?",
+            "How is artificial intelligence used?",
+            "What can AI be used for?"
+        ],
+        "answer": "AI is used in areas such as healthcare, finance, education, robotics, recommendation systems, language processing, computer vision, and autonomous systems."
+    },
+    {
+        "question": "What are the advantages of artificial intelligence?",
+        "variations": [
+            "What are the benefits of AI?",
+            "Why is AI useful?",
+            "What are the advantages of AI?",
+            "How can AI help people?"
+        ],
+        "answer": "AI can automate repetitive tasks, analyze large amounts of data, support decision-making, improve efficiency, and enable new products and services."
+    },
+    {
+        "question": "What are the limitations of artificial intelligence?",
+        "variations": [
+            "What are the disadvantages of AI?",
+            "What are the limitations of AI?",
+            "What problems can AI have?",
+            "What are the weaknesses of artificial intelligence?"
+        ],
+        "answer": "AI systems can depend heavily on data quality, may produce incorrect results, can inherit biases from training data, and may lack human understanding and common-sense reasoning."
+    },
+    {
+        "question": "What is computer science?",
+        "variations": [
+            "What does computer science mean?",
+            "Can you explain computer science?",
+            "What is computer science about?",
+            "What do computer scientists study?"
+        ],
+        "answer": "Computer science is the study of computation, algorithms, software, computer systems, and information processing."
+    }
+]
